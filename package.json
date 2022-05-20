@@ -1,0 +1,15 @@
+{
+  "name": "tsc-issue-220520",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.35",
+    "typescript": "next"
+  },
+  "dependencies": {
+    "classnames": "^2.3.1",
+    "clsx": "^1.1.1"
+  }
+}
