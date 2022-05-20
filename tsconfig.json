@@ -2,9 +2,7 @@
   "compilerOptions": {
     "esModuleInterop": true,
     "alwaysStrict": true,
-    "isolatedModules": true,
     "module": "NodeNext",
-    "moduleResolution": "NodeNext",
     "target": "ESNext"
   },
   "include": ["./index.ts"]
